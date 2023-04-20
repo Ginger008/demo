@@ -1,0 +1,5 @@
+<view>
+	<block>
+		<button>按钮</button>
+	</block>
+</view>
